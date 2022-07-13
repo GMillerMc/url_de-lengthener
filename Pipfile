@@ -10,6 +10,7 @@ flask-sqlalchemy = "*"
 psycopg2-binary = "*"
 gunicorn = "*"
 python-decouple = "*"
+waitress = "*"
 
 [dev-packages]
 autopep8 = "*"
