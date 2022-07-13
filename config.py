@@ -1,5 +1,3 @@
-from email.policy import default
-from re import T
 from decouple import config
 
 
