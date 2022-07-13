@@ -4,9 +4,9 @@
 
 ##Instructions
 
-`pipenv shell` to load a virtual environment
-`pipenv install` to install the packages
-`pipenv run dev` to start the development server
+- `pipenv shell` to load a virtual environment
+- `pipenv install` to install the packages
+- `pipenv run dev` to start the development server
 
 ##Usage
 
